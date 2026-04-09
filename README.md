@@ -23,12 +23,12 @@ When working on a hackathon in parallel:
 - What's next (immediate TODOs, blockers, integration points)
 - Files changed (git diff automatically detected)
 
-🎯 **Smart Side-by-Side View**
+**Smart Side-by-Side View**
 - See your progress vs. partner's progress at a glance
 - Conflict detection (both working on same file? You get a warning)
 - Staleness warnings (partner hasn't synced in 2+ hours?)
 
-🚀 **Zero Friction**
+**Zero Friction**
 - Git-based (no extra infrastructure)
 - Path-scoped (merge conflicts are **structurally impossible**)
 - Plain Markdown (readable on GitHub, in terminal, anywhere)
@@ -258,8 +258,4 @@ MIT — Use it, fork it, share it.
 
 ---
 
-## Acknowledgments
 
-Built for hackathon teams using Claude Code. Inspired by the ARIS (Auto-claude-code-research-in-sleep) methodology of lightweight, dependency-free workflows.
-
-Questions? Open an issue or reach out! 🚀
